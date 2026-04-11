@@ -1,0 +1,2 @@
+
+~/.duckdb/cli/latest/duckdb
